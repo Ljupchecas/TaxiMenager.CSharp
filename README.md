@@ -1,5 +1,3 @@
-# TaxiMenager.CSharp
-
 Title: TaxiManager
 
 Description:
